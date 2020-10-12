@@ -29,3 +29,8 @@ MERN | Search from 100000 books | Backend Pagingation
 
 ## Future Scope
 - **Redis Caching** -  Cashing the API request with the result in database to speed up the response time.
+
+## References
+- https://github.com/bvaughn/infinite-list-reflow-examples/blob/master/books.json
+- https://medium.com/swlh/server-side-pagination-in-node-js-with-sequelize-orm-and-mysql-73b0190e91fa (MySQL pagination)
+- https://github.com/aravindnc/mongoose-paginate-v2  (MongoDB Pagination)
