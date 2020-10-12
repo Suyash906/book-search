@@ -1,6 +1,12 @@
 # book-search
 MERN | Search from 100000 books | Backend Pagingation
 
+![book_image_1](https://github.com/Suyash906/book-search/blob/main/screenshots/book_search_1.png)
+
+![book_image_2](https://github.com/Suyash906/book-search/blob/main/screenshots/book_search_2.png)
+
+![book_image_2](https://github.com/Suyash906/book-search/blob/main/screenshots/book_search_3.png)
+
 ## Tech Spec
 - Backend - Node.js
 - Frontend - React.js
